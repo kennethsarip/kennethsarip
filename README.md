@@ -16,6 +16,7 @@ and data platforms for labs.
 |---|---|---|
 | [**Clinical Trials Visualization Agent**](https://github.com/kennethsarip/clinical_data_visualizer) | Natural-language questions → cited charts over up to 10k ClinicalTrials.gov records. The LLM only plans; deterministic Python computes every number, backed by 15 verification checks | FastAPI · React · PostgreSQL · Docker |
 | [**esm2-protein-search**](https://github.com/kennethsarip/esm2-protein-search) | Embedding-based protein search over ~570k Swiss-Prot proteins, benchmarked against BLAST and MMseqs2 on SCOPe remote homologs *(in progress)* | PyTorch · Rust · Terraform · AWS |
+| [**Fount**](https://github.com/kennethsarip/memoverse) | Free, gamified Bible-memory app for iOS and Android ("Duolingo for Scripture"): first-letter memorization, spaced repetition, XP, streaks, and offline support | React Native · Expo · TypeScript · Supabase |
 | [**TrustBooks**](https://github.com/kennethsarip/trustbooks) 🥉 | AI QuickBooks fraud auditing: RAG over each vendor's history with GPT-4, plus a memory loop that improves future retrievals | TypeScript · Express · PostgreSQL |
 | [**VacationGenius**](https://github.com/kennethsarip/VacationGenius) 🏆 | Event-driven multi-agent deal tracker: a scraper streams hotel prices through Redpanda, and a scoring agent emails the matches | Next.js · Redpanda · PostgreSQL |
 | [**Marvin**](https://github.com/kennethsarip/marvin) | AR morning assistant for Snap Spectacles with real-time vision (Gemini Live), voice, and long-term memory | TypeScript · Supabase · Lens Studio |
@@ -25,7 +26,7 @@ and data platforms for labs.
 
 **Languages:** Python · TypeScript/JavaScript · Java · C · SQL · Rust  
 **ML / Data:** PyTorch · scikit-learn · LightGBM · Optuna · SHAP · LLM APIs (OpenAI, Anthropic) · RAG · Pandas  
-**Backend / Infra:** FastAPI · Node/Express · React · Next.js · PostgreSQL · Docker · AWS · Cloudflare Workers · Supabase · GitHub Actions
+**Backend / Infra:** FastAPI · Node/Express · React · Next.js · React Native/Expo · PostgreSQL · Docker · AWS · Cloudflare Workers · Supabase · GitHub Actions
 
 ### Get in touch
 
