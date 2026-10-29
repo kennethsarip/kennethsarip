@@ -11,7 +11,7 @@ interested in:
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Query-to-Chart Agent**](https://github.com/kennethsarip/clinical_data_visualizer) | Full-stack app that turns natural-language questions into cited charts over 10k records. The LLM only plans; deterministic code computes every number, enforced by 15 verification checks | FastAPI · React · PostgreSQL · Docker |
+| [**Query-to-Chart Agent**](https://github.com/kennethsarip/query-to-chart-agent) | Full-stack app that turns natural-language questions into cited charts over 10k records. The LLM only plans; deterministic code computes every number, enforced by 15 verification checks | FastAPI · React · PostgreSQL · Docker |
 | [**Fount**](https://github.com/kennethsarip/memoverse) | Gamified mobile learning app for iOS and Android ("Duolingo for Bible memory"): spaced repetition, XP, streaks, and offline support | React Native · Expo · TypeScript · Supabase |
 | [**TrustBooks**](https://github.com/kennethsarip/trustbooks)<br>🥉 3rd Place, Berkeley 10² | AI fraud auditing for QuickBooks: RAG over each vendor's transaction history with GPT-4, plus a memory loop that improves future retrievals | TypeScript · Express · PostgreSQL |
 | [**VacationGenius**](https://github.com/kennethsarip/VacationGenius)<br>🏆 Best Use of Redpanda | Event-driven multi-agent deal tracker: a scraper streams hotel prices through Redpanda, and a scoring agent emails the matches | Next.js · Redpanda · PostgreSQL |
