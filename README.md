@@ -3,9 +3,9 @@
 Software & ML engineer studying EECS + Business at **UC Berkeley** (M.E.T. Program). I'm most
 interested in:
 
-- 🧠 **Building ML models:** from feature engineering and tuning to rigorous evaluation
-- 🤖 **Agentic systems:** LLM agents that plan, use tools, and produce outputs you can verify
 - 🚀 **Full-stack products, end to end:** database and backend to web and mobile UI, shipped
+- 🤖 **Agentic systems:** LLM agents that plan, use tools, and produce outputs you can verify
+- 🧠 **Building ML models:** from feature engineering and tuning to rigorous evaluation
 
 ### Featured projects
 
